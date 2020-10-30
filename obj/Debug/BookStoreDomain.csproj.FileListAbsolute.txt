@@ -1,0 +1,5 @@
+C:\work\aspnet\BookStoreDomain\bin\Debug\BookStoreDomain.dll
+C:\work\aspnet\BookStoreDomain\bin\Debug\BookStoreDomain.pdb
+C:\work\aspnet\BookStoreDomain\obj\Debug\BookStoreDomain.csproj.CoreCompileInputs.cache
+C:\work\aspnet\BookStoreDomain\obj\Debug\BookStoreDomain.dll
+C:\work\aspnet\BookStoreDomain\obj\Debug\BookStoreDomain.pdb
